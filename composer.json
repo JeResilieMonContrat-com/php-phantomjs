@@ -1,6 +1,6 @@
 {
-    "name": "jonnyw/php-phantomjs",
-    "description": "A PHP wrapper for loading pages through PhantomJS",
+    "name": "jrmc/php-phantomjs",
+    "description": "A PHP wrapper for loading pages through PhantomJS - JRMC fork",
     "keywords": ["PhantomJS", "Testing", "Headless Browser"],
 	"type": "library",
     "license": "MIT",
